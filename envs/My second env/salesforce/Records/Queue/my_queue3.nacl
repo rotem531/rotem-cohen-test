@@ -2,11 +2,6 @@ salesforce.Queue my_queue3 {
   fullName = "my_queue3"
   doesSendEmailToMembers = false
   name = "my_queue3"
-  queueMembers = {
-    roles = {
-      role = salesforce.Role.instance.junior3
-    }
-  }
   queueSobject = {
     sobjectType = "Customer"
   }
