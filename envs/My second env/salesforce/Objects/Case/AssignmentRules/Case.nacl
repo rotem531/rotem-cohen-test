@@ -5,7 +5,7 @@ salesforce.AssignmentRules Case {
       active = true
       ruleEntry = [
         {
-          assignedTo = "sf-dev2@sf.sf"
+          assignedTo = "sf-dev1@sf.sf"
           assignedToType = "User"
           criteriaItems = [
             {
@@ -26,7 +26,7 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "sf-dev2@sf.sf"
+          assignedTo = "sf-dev1@sf.sf"
           assignedToType = "User"
           criteriaItems = [
             {
@@ -47,7 +47,7 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "sf-dev2@sf.sf"
+          assignedTo = "sf-dev1@sf.sf"
           assignedToType = "User"
           criteriaItems = [
             {
@@ -68,7 +68,7 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "sf-dev2@sf.sf"
+          assignedTo = "sf-dev1@sf.sf"
           assignedToType = "User"
           criteriaItems = [
             {
@@ -89,7 +89,7 @@ salesforce.AssignmentRules Case {
           ]
         },
         {
-          assignedTo = "sf-dev2@sf.sf"
+          assignedTo = "sf-dev1@sf.sf"
           assignedToType = "User"
           criteriaItems = [
             {

@@ -48,6 +48,10 @@ salesforce.Layout Contact_Contact__28Sales_29_Layout@bspps {
               behavior = "Edit"
               field = salesforce.Contact.field.Birthdate
             },
+            {
+              behavior = "Edit"
+              field = salesforce.Contact.field.test_text__c
+            },
           ]
         },
         {
