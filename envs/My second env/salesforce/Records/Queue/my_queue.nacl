@@ -6,4 +6,9 @@ salesforce.Queue my_queue {
     sobjectType = "Customer"
   }
   _alias = "my_queue"
+  queueMembers = {
+    roles = {
+      role = salesforce.Role.instance.junior
+    }
+  }
 }

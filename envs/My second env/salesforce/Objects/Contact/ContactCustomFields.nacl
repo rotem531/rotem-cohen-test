@@ -36,4 +36,15 @@ type salesforce.Contact {
     updateable = true
     queryable = true
   }
+  salesforce.Text test_text__c {
+    apiName = "Contact.test_text__c"
+    externalId = false
+    label = "test_text"
+    length = 35
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
 }
