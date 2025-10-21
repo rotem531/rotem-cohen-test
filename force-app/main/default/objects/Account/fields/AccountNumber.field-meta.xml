@@ -3,7 +3,7 @@
     <fullName>AccountNumber</fullName>
     <type>Text</type>
     <required>false</required>
-    <length>42</length>
+    <length>41</length>
     <unique>false</unique>
     <caseSensitive>false</caseSensitive>
     <trackFeedHistory>false</trackFeedHistory>
