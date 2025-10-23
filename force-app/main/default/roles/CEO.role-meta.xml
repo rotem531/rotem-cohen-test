@@ -2,7 +2,7 @@
 <Role xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseAccessLevel>Edit</caseAccessLevel>
     <contactAccessLevel>Edit</contactAccessLevel>
-    <description>CEO2</description>
+    <description>CEO23</description>
     <mayForecastManagerShare>false</mayForecastManagerShare>
     <name>CEO</name>
     <opportunityAccessLevel>Edit</opportunityAccessLevel>
