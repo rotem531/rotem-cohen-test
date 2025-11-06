@@ -93,12 +93,12 @@ salesforce {
           metadataType = "PermissionSetGroup"
         },
       ]
-      typesToRead = [
-        "GenAiPlannerBundle",
-      ]
     }
     fetchAllCustomSettings = false
     maxInstancesPerType = 5000
   }
   maxItemsInRetrieveRequest = 2500
+  flags = {
+    defaultIterationOverride = 3
+  }
 }
