@@ -3,4 +3,5 @@
     <fullName>AssociatedAccountId</fullName>
     <type>Lookup</type>
     <required>false</required>
+    <relationshipName>AssociatedAccount</relationshipName>
 </CustomField>

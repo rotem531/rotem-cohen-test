@@ -3,4 +3,5 @@
     <fullName>FullRefreshIntervalDays</fullName>
     <type>Picklist</type>
     <required>false</required>
+    <inlineHelpText>The full refresh interval is used to determine when a periodic full refresh is triggered.</inlineHelpText>
 </CustomField>
