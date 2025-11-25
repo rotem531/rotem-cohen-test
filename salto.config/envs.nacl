@@ -1,0 +1,10 @@
+envs {
+  envs = [
+    {
+      name = "dlde"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
+  ]
+}

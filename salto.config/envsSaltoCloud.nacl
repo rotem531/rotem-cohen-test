@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "af33bfa3-cf3f-4c38-a110-10f6b0b36f7b"
+      folderName = "dlde"
+    },
+  ]
+}
